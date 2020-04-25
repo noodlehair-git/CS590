@@ -1,0 +1,10 @@
+﻿  Dictionary_Cracker.cpp
+  main.cpp
+  Password_Cracker.cpp
+  password_list.cpp
+  Hybrid_Cracker.cpp
+  Precalculated_Cracker.cpp
+  Generating Code...
+D:\Hybrid_pwd_cracking\Hybrid Attacks\Precalculated_Cracker.cpp(19,21): warning C4101: 'e': unreferenced local variable
+D:\Hybrid_pwd_cracking\Hybrid Attacks\Hybrid_Cracker.cpp(18): warning C4715: 'HybridCracker::crack_password': not all control paths return a value
+  Hybrid Attacks.vcxproj -> D:\Hybrid_pwd_cracking\x64\Debug\Hybrid Attacks.exe
